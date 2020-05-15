@@ -1,0 +1,778 @@
+software engineering	scientific principles	
+software engineering	software engineering	
+reliable software product	reliable software product	
+reliable software product	involves communication	
+software engineering process	software engineering process	
+project management	project management	
+post delivery support	post delivery support	
+post delivery support	basic understanding	
+development process	development process	
+development process	design complexities	
+software project management	software project management	
+software engineering concepts	software engineering concepts	
+software engineering concepts	computational purpose	
+software engineering concepts	specific requirement	
+software engineering concepts	scientific principles	
+software evolution	software evolution	
+software evolution	engineering principles	
+software evolution	initial development	
+requirement gathering process	requirement gathering process	
+software product development	software product development	
+software product development	consecutive updates	
+software product development	requirements force	
+software product development	economical solution	
+software product development	quantifiable approach	
+german computer scientist	german computer scientist	
+german computer scientist	engineering principles	
+software evolution laws	software evolution laws	
+software evolution laws	different categories	
+software evolution	mathematical computation	
+calculator program	calculator program	
+real world environment	real world environment	
+real world situations	real world situations	
+real world changes	real world changes	
+type software system	type software system	
+type software system	operational environment	
+software paradigms	software paradigms	
+software paradigms	various categories	
+development paradigm	development paradigm	
+software evolution	engineering concepts	
+engineering paradigms	engineering paradigms	
+engineering paradigms	various researches	
+requirement gathering	requirement gathering	
+programming paradigm	programming paradigm	
+software development	software development	
+software development	scientific process	
+software development	engineering concepts	
+software development	electronic hardware	
+new enhancements need	new enhancements need	
+quality management	quality management	
+quality software product	quality software product	
+time software products	time software products	
+development life cycle	development life cycle	
+software development team	software development team	
+requirement gathering	various stakeholders	
+requirement gathering	functional requirements	
+requirement gathering	system requirements	
+software product limitations	software product limitations	
+systems beforehand	systems beforehand	
+project team analyzes	project team analyzes	
+requirement gathering phase	requirement gathering phase	
+cases pseudo codes	cases pseudo codes	
+data flow diagrams	data flow diagrams	
+free executable programs	free executable programs	
+software operation	software operation	
+software operation	software operational	
+end user environment	end user environment	
+end user environment	intense upgradation	
+end user environment	software components	
+disposition activity	disposition activity	
+software development paradigm	software development paradigm	
+software development paradigms	software development paradigms	
+software development process	software development process	
+whole software process	whole software process	
+model considers risk	model considers risk	
+requirement gathering stage	requirement gathering stage	
+large software projects	large software projects	
+large software projects	input requirements	
+software development	adequate resources	
+requirement gathering	complete procedure	
+software development	execution methodologies	
+software development	intangible product	
+software project management	technology changes	
+clients requirements	clients requirements	
+manage software projects	manage software projects	
+manage software projects	environmental constraints	
+shows triple constraints	shows triple constraints	
+software organization	software organization	
+clients budget constrain	clients budget constrain	
+triple constrain triangle	triple constrain triangle	
+incorporate user requirements	incorporate user requirements	
+software project manager	software project manager	
+development process	adequate resources	
+customer satisfaction	customer satisfaction	
+project manager shoulders	project manager shoulders	
+project management activities	project management activities	
+project spokesperson	project spokesperson	
+project management comprises	project management comprises	
+software management activities	software management activities	
+resource management	resource management	
+resource management	management activities	
+project estimation	project estimation	
+software production	software production	
+direction connection	direction connection	
+direction connection	multiple processes	
+facilitates software production	facilitates software production	
+creates boundaries	creates boundaries	
+deliverable software product	deliverable software product	
+deliverable software product	quantifiable tasks	
+project estimation	effective management	
+project estimation	accurate estimation	
+project estimation	estimation managers	
+software requirement	software requirement	
+software requirement	personnel requirement	
+software requirement	managers experience	
+software requirement	various components	
+software requirement	requirement specifications	
+project estimation techniques	project estimation techniques	
+project estimation	various parameters	
+decomposition technique	decomposition technique	
+decomposition technique	various compositions	
+function points estimation	function points estimation	
+empirical estimation technique	empirical estimation technique	
+lawrence h. putnam	lawrence h. putnam	
+frequency distribution	frequency distribution	
+constructive cost model	constructive cost model	
+project scheduling	project scheduling	
+project scheduling	project milestones	
+task interdependency	task interdependency	
+task interdependency	software libraries	
+task interdependency	adequate resources	
+proper organization project	proper organization project	
+proper organization project	management involves	
+project risk management	project risk management	
+project risk management	organizational management	
+project risk management	environmental changes	
+business competition	business competition	
+risk management process	risk management process	
+low risk intensity	low risk intensity	
+activity monitoring	activity monitoring	
+activity monitoring	milestones checklist	
+milestone checklist	milestone checklist	
+milestone checklist	communication plays	
+project communication management	project communication management	
+project communication management	hardware suppliers	
+management process	management process	
+additional communication facilities	additional communication facilities	
+additional communication facilities	performance reports	
+feedback mechanism	feedback mechanism	
+feedback mechanism	various stakeholders	
+feedback mechanism	administrative closure	
+feedback mechanism	effective communication	
+configuration management	configuration management	
+configuration management	defines completeness	
+organization administration	organization administration	
+configuration management	organizational rules	
+change request arrives	change request arrives	
+change request arrives	worth incorporation	
+previous phase determines	previous phase determines	
+previous phase determines	appropriate actions	
+uncertainty rises multifold	uncertainty rises multifold	
+project management tools	project management tools	
+effective project management	effective project management	
+effective project management	project activities	
+program evaluation	program evaluation	
+resource histogram	resource histogram	
+resource histogram	interdependent tasks	
+critical path analysis	critical path analysis	
+tool shows dependency	tool shows dependency	
+specific time frame	specific time frame	
+possible start time	possible start time	
+possible start time	software requirements	
+requirement engineering	requirement engineering	
+requirement engineering	software requirements	
+requirement engineering	descriptive system	
+requirement engineering	requirements specification	
+requirement engineering process	requirement engineering process	
+software requirement specification	software requirement specification	
+software requirement validation	software requirement validation	
+integration ability	integration ability	
+feasibility study report	feasibility study report	
+feasibility report	feasibility report	
+engineers communicate	engineers communicate	
+engineers communicate	gathering requirements	
+engineers communicate	various stakeholders	
+software requirement specification	external interfaces	
+software requirement specification	technical language	
+design description	design description	
+software requirement validation	mathematical notations	
+software requirement validation	requirement specifications	
+software requirement validation	impractical solution	
+following conditions	following conditions	
+requirement elicitation process	requirement elicitation process	
+elicitation process	elicitation process	
+developers prioritize	developers prioritize	
+organizing requirements	organizing requirements	
+organizing requirements	various stakeholders	
+organizing requirements	functional requirements	
+requirement elicitation techniques	requirement elicitation techniques	
+requirement elicitation techniques	requirements elicitation	
+software system development	software system development	
+software system development	various stakeholders	
+software system development	objective questions	
+software system development	respective options	
+software system development	specific requirements	
+software system development	requirements analysis	
+detail functionality	detail functionality	
+building user interface	building user interface	
+developer reference	developer reference	
+client organization	client organization	
+client organization	execution problems	
+software requirements characteristics	software requirements characteristics	
+software requirements characteristics	software requirements	
+software requirement specifications	software requirement specifications	
+software requirement specifications	software requirements	
+requirement elicitation phase	requirement elicitation phase	
+requirement elicitation phase	functional requirements	
+requirement elicitation phase	software requirements	
+requirement elicitation phase	administrative functions	
+requirement elicitation phase	downward compatibility	
+non functional requirements	non functional requirements	
+non functional requirements	functional requirements	
+non functional requirements	operational errors	
+consistent user interface	consistent user interface	
+responsive user interface	responsive user interface	
+responsive user interface	interface requirements	
+software analysis phase	software analysis phase	
+software analysis phase	organization objectives	
+requirement management plan	requirement management plan	
+requirement management plan	product requirements	
+requirement management plan	prioritize requirements	
+requirement management plan	acceptance criteria	
+requirement management plan	various attributes	
+software development process	fundamental requirement	
+important software measures	important software measures	
+important software measures	complexity quantifies	
+control flow graph	control flow graph	
+graph theory concepts	graph theory concepts	
+quality metrics defects	quality metrics defects	
+software process metrics	software process metrics	
+resource measurement	resource measurement	
+resource metrics effort	resource metrics effort	
+transform user requirements	transform user requirements	
+software requirement specification	architectural design	
+multiple component concept	multiple component concept	
+multiple component concept	architectural design	
+implementation part	implementation part	
+implementation part	independent modules	
+implementation part	functional aspects	
+implementation part	sequential execution	
+multiple independent units	multiple independent units	
+multiple independent units	parallel execution	
+multiple independent units	intra dependability	
+multiple independent units	incidental cohesion	
+multiple independent units	procedural cohesion	
+multiple independent units	communicational cohesion	
+multiple independent units	sequential cohesion	
+multiple independent units	functional cohesion	
+inter dependability	inter dependability	
+common data structure	common data structure	
+software design process	software design process	
+design documentation	design documentation	
+design documentation	functional requirements	
+thorough design review	thorough design review	
+formal notation form	formal notation form	
+verification approach	verification approach	
+good software design	good software design	
+good design review	good design review	
+requirement specification	requirement specification	
+requirement specification	functional expectations	
+specifications specify	specifications specify	
+specifications specify	understandable documents	
+specifications specify	requirement specifications	
+specifications specify	intermediate stage	
+specifications specify	software designers	
+specifications specify	readable requirements	
+information system	information system	
+information system	graphical representation	
+outgoing data flow	outgoing data flow	
+outgoing data flow	prominent difference	
+flowchart depicts flow	flowchart depicts flow	
+data flow diagrams	different entities	
+data flow diagrams	process activities	
+data flow movement	data flow movement	
+entire information system	entire information system	
+entire information system	functional modules	
+entire information system	hierarchical structure	
+control module branches	control module branches	
+structure charts modules	structure charts modules	
+structure charts condition	structure charts condition	
+structure charts module	structure charts module	
+loop repeat execution	loop repeat execution	
+structure charts dataflow	structure charts dataflow	
+structure charts controlflow	structure charts controlflow	
+decomposes functions	decomposes functions	
+decomposes functions	hierarchical manner	
+documentation purpose	documentation purpose	
+documentation purpose	graphical representation	
+input process output	input process output	
+software management	software management	
+software management	accurate information	
+software management	variable declaration	
+languages constructs	languages constructs	
+languages constructs	respective actions	
+convenient decision making	convenient decision making	
+convenient decision making	similar information	
+convenient decision making	possible conditions	
+entity relationship	entity relationship	
+entity relationship model	entity relationship model	
+real world entities	real world entities	
+real world scenario	real world scenario	
+real world scenario	various attributes	
+real world scenario	logical association	
+real world scenario	software designers	
+real world scenario	rigorous definitions	
+object reference everywhere	object reference everywhere	
+object reference everywhere	dictionary removes	
+complete database system	complete database system	
+external data stores	external data stores	
+content description	content description	
+content description	supplementary information	
+content description	software requirements	
+software implementation	software implementation	
+design mechanism divides	design mechanism divides	
+design mechanism divides	functional modules	
+functions changes data	functions changes data	
+software solution revolves	software solution revolves	
+design strategies focuses	design strategies focuses	
+design strategies focuses	important concepts	
+design strategies focuses	important information	
+design strategies focuses	hierarchical manner	
+immediate super classes	immediate super classes	
+immediate super classes	respective portion	
+system sequence diagram	system sequence diagram	
+system sequence diagram	attribute characteristics	
+system sequence diagram	generic approaches	
+creates hierarchical structure	creates hierarchical structure	
+whole software system	whole software system	
+software solution needs	software solution needs	
+digital technology exists	digital technology exists	
+human computer interaction	human computer interaction	
+human computer interaction	fundamental platform	
+software combination	software combination	
+graphical user interface	graphical user interface	
+video display monitors	video display monitors	
+command line interface	command line interface	
+small horizontal line	small horizontal line	
+small horizontal line	executable instruction	
+graphical user interface	graphical component	
+graphical user interface	multiple instances	
+tabbed document interface	tabbed document interface	
+open multiple documents	open multiple documents	
+modern web browsers	modern web browsers	
+application window	application window	
+application window	displays application	
+application window	application contains	
+application windows uses	application windows uses	
+application windows uses	functional requirements	
+gui requirement gathering	gui requirement gathering	
+target audience matters	target audience matters	
+target audience matters	hierarchical manner	
+sub tasks determines	sub tasks determines	
+sub tasks determines	direct involvement	
+sub tasks determines	implementation tools	
+software environment	software environment	
+software environment	different segments	
+software customization	software customization	
+software customization	similar situations	
+enable frequent users	enable frequent users	
+enable frequent users	informative feedback	
+enable frequent users	comprehensible mechanisms	
+enable frequent users	unfamiliar options	
+actions encourages exploration	actions encourages exploration	
+human information processing	human information processing	
+window motion frequency	window motion frequency	
+multiple page displays	multiple page displays	
+sufficient training time	sufficient training time	
+term complexity stands	term complexity stands	
+term complexity stands	complexity metrics	
+halsteads complexity measures	halsteads complexity measures	
+software complexity	software complexity	
+software complexity	actual implementation	
+software complexity	various indicators	
+select source file	select source file	
+select source file	complexity details	
+select source file	mathematical representation	
+length log2 vocabulary	length log2 vocabulary	
+cyclomatic complexity measures	cyclomatic complexity measures	
+decision making statements	decision making statements	
+program encompasses statements	program encompasses statements	
+decision making constructs	decision making constructs	
+decision making statements	cyclomatic complexity	
+quantify complexity	quantify complexity	
+flow control graph	flow control graph	
+cyclomatic complexity measures	cyclomatic complexity	
+cyclomatic complexity measures	point concentrates	
+logical internal files	logical internal files	
+logical internal files	control parameters	
+logical internal files	functional information	
+external interface files	external interface files	
+environment complexity	environment complexity	
+environment complexity	different characteristics	
+operation configuration load	operation configuration load	
+end user efficiency	end user efficiency	
+end user efficiency	facilitate changes	
+characteristics factors	characteristics factors	
+complexity adjustment factors	complexity adjustment factors	
+delivered function points	delivered function points	
+errors function points	errors function points	
+errors function points	structured programming	
+software implementation	software increases	
+software implementation	modular programming	
+uses control structure	uses control structure	
+uses control structure	definable patterns	
+uses control structure	functional programming	
+uses control structure	mathematical functions	
+uses control structure	procedural languages	
+procedure execution	procedure execution	
+procedure execution	mathematical functions	
+high order functions	high order functions	
+high order functions	destructive updates	
+recursion recursion	recursion recursion	
+recursion recursion	evaluation methods	
+languages usecalculus	languages usecalculus	
+languages usecalculus	type systems.expressions	
+multiple programmers work	multiple programmers work	
+variable names relevant	variable names relevant	
+variable names relevant	overall presentation	
+assignment operator	assignment operator	
+control flow statements	control flow statements	
+different data types	different data types	
+software documentation	software documentation	
+information repository	information repository	
+information repository	behavioral description	
+word processing document	word processing document	
+requirement documentation	requirement documentation	
+requirement documentation	necessary information	
+design documentation	necessary information	
+technical documentation increases	technical documentation increases	
+technical documentation increases	various programmers	
+technical documentation increases	technical documentation	
+development process	previous documentations	
+user documentation	user documentation	
+software installation procedures	software installation procedures	
+software installation procedures	special references	
+uninstallation method	uninstallation method	
+present day languages	present day languages	
+huge library functions	huge library functions	
+organization management	organization management	
+organization management	compatibility checks	
+version management	version management	
+version management	documentation needs	
+version management	system specifications	
+software validation	software validation	
+software validation	software satisfies	
+software matches requirements	software matches requirements	
+software matches requirements	business requirements	
+software verification	software verification	
+software verification	proper specifications	
+software verification	design specifications	
+software verification	system specifications	
+software verification	different sections	
+testing approaches	testing approaches	
+testing approaches	actual implementation	
+test functionality	test functionality	
+test functionality	multiple parameters	
+system changes state	system changes state	
+technique emphasis	technique emphasis	
+process runs parallel	process runs parallel	
+software development	programmer performs	
+integration testing	integration testing	
+various environment conditions	various environment conditions	
+acceptance testing	acceptance testing	
+production environment	production environment	
+regression testing	regression testing	
+testing documentation	testing documentation	
+test cases generation	test cases generation	
+test cases generation	functional requirements	
+responsibility matrix	responsibility matrix	
+responsibility matrix	rights responsibility	
+traceability matrix	traceability matrix	
+document contains list	document contains list	
+document contains list	collective analysis	
+version control system	version control system	
+software quality assurance	software quality assurance	
+software quality control	software quality control	
+software quality control	functional aspects	
+development team examines	development team examines	
+development process	client requirements	
+development process	host modifications	
+target host changes	target host changes	
+target host changes	organization changes	
+organization strength	organization strength	
+routine maintenance tasks	routine maintenance tasks	
+user error reports	user error reports	
+business environment	business environment	
+new user requirements	new user requirements	
+software maintenance	software maintenance	
+trigger maintenance cost	trigger maintenance cost	
+trigger maintenance cost	maintenance engineers	
+trigger maintenance cost	technology advances	
+trigger maintenance cost	original structure	
+trigger maintenance cost	subsequent changes	
+programming language	programming language	
+programming language	external environment	
+involves activities	involves activities	
+involves activities	security implications	
+involves activities	alternative solution	
+involves activities	requirement specifications	
+modification maintenance	modification maintenance	
+modification maintenance	requirement specifications	
+small update package	small update package	
+small update package	fresh installation	
+system maintenance	system maintenance	
+maintenance management	maintenance management	
+version control tools	version control tools	
+software re-engineering	software re-engineering	
+programmers notice	programmers notice	
+perform reverse engineering	perform reverse engineering	
+restructure program	restructure program	
+restructure program	engineering concepts	
+reverse engineering	reverse engineering	
+system specification	system specification	
+system specification	abstraction levels	
+program restructuring	program restructuring	
+enhance reliability	enhance reliability	
+obsolete hardware platform	obsolete hardware platform	
+reverse engineering	forward engineering	
+engineering process	engineering process	
+software program code	software program code	
+whole new vertical	whole new vertical	
+software component	software component	
+component based software	component based software	
+component based software	entire application	
+component based software	functional modules	
+component based software	different components	
+component based software	functional requirements	
+requirement specification	basic architecture	
+requirement specification	specify components	
+designers segregate	designers segregate	
+complete software design	complete software design	
+software component repository	software component repository	
+software component repository	incorporate components	
+software component repository	software requirements	
+business organization	business organization	
+project manager needs	project manager needs	
+negative impact risk	negative impact risk	
+positive impact risk	positive impact risk	
+project managers need	project managers need	
+risk identification	risk identification	
+risk quantification	risk quantification	
+risk response strategies	risk response strategies	
+risk response strategies	corrective measures	
+risk management process	haphazard situations	
+risk management process	detrimental factors	
+project engagement	project engagement	
+entire management team	entire management team	
+frequent risk assessments	frequent risk assessments	
+scientific principles	scientific principles	
+software engineering	reliable software product	
+involves communication	software engineering process	
+software engineering process	project management	
+design complexities	software project management	
+computational purpose	computational purpose	
+specific requirement	specific requirement	
+engineering principles	software evolution	
+initial development	initial development	
+requirement gathering process	software evolution	
+consecutive updates	consecutive updates	
+requirements force	requirements force	
+economical solution	economical solution	
+quantifiable approach	quantifiable approach	
+engineering principles	engineering principles	
+different categories	software evolution	
+mathematical computation	calculator program	
+real world changes	type software system	
+various categories	various categories	
+development paradigm	software evolution	
+engineering concepts	engineering paradigms	
+various researches	requirement gathering	
+programming paradigm	software development	
+scientific process	scientific process	
+engineering concepts	engineering concepts	
+electronic hardware	electronic hardware	
+quality management	quality software product	
+quality software product	software development	
+time software products	development life cycle	
+software development team	requirement gathering	
+various stakeholders	various stakeholders	
+functional requirements	system requirements	
+software product limitations	systems beforehand	
+cases pseudo codes	data flow diagrams	
+software operational	software operational	
+intense upgradation	intense upgradation	
+software components	software components	
+development process	whole software process	
+software development	software project management	
+adequate resources	adequate resources	
+complete procedure	software development	
+execution methodologies	execution methodologies	
+intangible product	software project management	
+technology changes	clients requirements	
+environmental constraints	software development	
+incorporate user requirements	software project management	
+customer satisfaction	project manager shoulders	
+project management comprises	software management activities	
+software production	direction connection	
+creates boundaries	deliverable software product	
+quantifiable tasks	quantifiable tasks	
+effective management	accurate estimation	
+estimation managers	estimation managers	
+personnel requirement	personnel requirement	
+managers experience	managers experience	
+various components	requirement specifications	
+project milestones	project milestones	
+software libraries	software libraries	
+management involves	project risk management	
+organizational management	organizational management	
+environmental changes	environmental changes	
+business competition	risk management process	
+milestones checklist	milestones checklist	
+communication plays	project communication management	
+hardware suppliers	hardware suppliers	
+performance reports	feedback mechanism	
+administrative closure	administrative closure	
+effective communication	effective communication	
+defines completeness	defines completeness	
+worth incorporation	worth incorporation	
+uncertainty rises multifold	project management tools	
+project activities	project activities	
+interdependent tasks	critical path analysis	
+tool shows dependency	specific time frame	
+software requirements	software requirements	
+descriptive system	requirements specification	
+requirement gathering	software requirement specification	
+integration ability	feasibility study report	
+requirement gathering	feasibility report	
+various stakeholders	software requirement specification	
+external interfaces	external interfaces	
+technical language	software development team	
+requirement specifications	requirement specifications	
+impractical solution	impractical solution	
+requirement elicitation process	elicitation process	
+developers prioritize	organizing requirements	
+functional requirements	functional requirements	
+objective questions	respective options	
+specific requirements	specific requirements	
+various stakeholders	requirements analysis	
+detail functionality	building user interface	
+execution problems	execution problems	
+functional requirements	software requirements	
+administrative functions	administrative functions	
+downward compatibility	non functional requirements	
+operational errors	operational errors	
+interface requirements	interface requirements	
+organization objectives	organization objectives	
+product requirements	prioritize requirements	
+acceptance criteria	acceptance criteria	
+various attributes	various attributes	
+complexity quantifies	complexity quantifies	
+control flow graph	graph theory concepts	
+resource measurement	resource metrics effort	
+architectural design	architectural design	
+independent modules	independent modules	
+functional aspects	functional aspects	
+sequential execution	sequential execution	
+parallel execution	parallel execution	
+intra dependability	intra dependability	
+incidental cohesion	incidental cohesion	
+procedural cohesion	procedural cohesion	
+communicational cohesion	communicational cohesion	
+sequential cohesion	sequential cohesion	
+functional cohesion	functional cohesion	
+software design process	design documentation	
+thorough design review	formal notation form	
+good software design	good design review	
+functional expectations	specifications specify	
+understandable documents	requirement specifications	
+intermediate stage	intermediate stage	
+software designers	readable requirements	
+prominent difference	prominent difference	
+different entities	different entities	
+process activities	process activities	
+functional modules	functional modules	
+hierarchical structure	hierarchical structure	
+structured english	structured english	
+variable declaration	languages constructs	
+respective actions	respective actions	
+possible conditions	possible conditions	
+entity relationship	entity relationship model	
+entity relationship model	real world entities	
+various attributes	logical association	
+software designers	rigorous definitions	
+supplementary information	supplementary information	
+software requirements	software implementation	
+software solution revolves	design strategies focuses	
+important concepts	important concepts	
+important information	important information	
+hierarchical manner	hierarchical manner	
+respective portion	respective portion	
+attribute characteristics	attribute characteristics	
+generic approaches	generic approaches	
+executable instruction	executable instruction	
+graphical component	graphical component	
+multiple instances	multiple instances	
+tabbed document interface	open multiple documents	
+displays application	displays application	
+application contains	application window	
+functional requirements	gui requirement gathering	
+direct involvement	direct involvement	
+implementation tools	software environment	
+different segments	software customization	
+similar situations	similar situations	
+informative feedback	informative feedback	
+comprehensible mechanisms	comprehensible mechanisms	
+unfamiliar options	actions encourages exploration	
+window motion frequency	multiple page displays	
+complexity metrics	complexity metrics	
+actual implementation	actual implementation	
+various indicators	various indicators	
+mathematical representation	mathematical representation	
+decision making statements	program encompasses statements	
+cyclomatic complexity	quantify complexity	
+cyclomatic complexity	cyclomatic complexity	
+point concentrates	software complexity	
+control parameters	control parameters	
+different characteristics	different characteristics	
+facilitate changes	characteristics factors	
+structured programming	software implementation	
+software increases	software increases	
+modular programming	modular programming	
+functional programming	functional programming	
+mathematical functions	mathematical functions	
+procedural languages	procedural languages	
+destructive updates	destructive updates	
+evaluation methods	evaluation methods	
+overall presentation	overall presentation	
+behavioral description	behavioral description	
+necessary information	design documentation	
+necessary information	necessary information	
+technical documentation	technical documentation	
+special references	uninstallation method	
+present day languages	huge library functions	
+compatibility checks	compatibility checks	
+documentation needs	documentation needs	
+system specifications	system specifications	
+software satisfies	software satisfies	
+business requirements	software verification	
+proper specifications	design specifications	
+different sections	different sections	
+multiple parameters	multiple parameters	
+process runs parallel	software development	
+programmer performs	programmer performs	
+requirement gathering process	traceability matrix	
+collective analysis	collective analysis	
+software development process	software quality control	
+client requirements	client requirements	
+host modifications	target host changes	
+organization changes	organization changes	
+maintenance engineers	technology advances	
+original structure	original structure	
+subsequent changes	subsequent changes	
+security implications	security implications	
+alternative solution	requirement specifications	
+system maintenance	maintenance management	
+abstraction levels	abstraction levels	
+reverse engineering	program restructuring	
+whole new vertical	software component	
+entire application	entire application	
+different components	different components	
+functional requirements	requirement specification	
+basic architecture	specify components	
+incorporate components	software requirements	
+project risk management	business organization	
+negative impact risk	positive impact risk	
+project risk management	risk quantification	
+corrective measures	corrective measures	
+management process	risk management process	
+haphazard situations	detrimental factors	
